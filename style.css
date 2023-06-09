@@ -1,0 +1,37 @@
+body{
+  background-image: url(./rm309-adj-05.jpg)
+  }
+
+section {
+  width: 1000px;
+  height: 360px;  
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(88, 70, 45);
+}
+
+div {
+  width: 200px;
+  height: 250px;
+  padding: 20px;
+  margin: 10px;
+  background: #b8adb6;
+  box-sizing: border-box;
+  
+}
+
+p {
+  background: rgb(230, 221, 221);
+  padding: 5px;
+  border-radius: 5px;
+  color: rgb(10, 9, 9);
+  font-weight: bold;
+}
+p:hover {
+background-color: rgba(132, 119, 119, 0.947);
+}
